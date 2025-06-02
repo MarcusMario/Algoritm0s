@@ -1,6 +1,6 @@
 # Algoritmos Clásicos en Java
 
-Este repositorio contiene implementaciones en Java de diversos algoritmos clásicos y problemas computacionales. El objetivo es estudiar, practicar y mejorar la comprensión de estructuras algorítmicas esenciales para el desarrollo de software y la resolución de problemas complejos. Algoritmos de la clase de Disenio y analisis de algoritmos - 2024
+Este repositorio contiene implementaciones en Java de diversos algoritmos clásicos y problemas computacionales. El objetivo es estudiar, practicar y mejorar la comprensión de estructuras algorítmicas esenciales para el desarrollo de software y la resolución de problemas complejos. Algoritmos - Disenio y analisis de algoritmos - 2024
 
 ## Contenido del Repositorio
 
